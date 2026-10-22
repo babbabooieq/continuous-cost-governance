@@ -1,0 +1,21 @@
+# Local installers and temporary files
+*.msi
+_temp*
+~$*
+
+# Historical drafts and internal working documents (kept locally, excluded from public repo)
+Continuous Cost Governance Paper V0.*
+Continuous Cost Governance Paper V1.0*
+Continuous Cost Governance Paper V1.1*
+Continuous Cost Governance Paper V1.2*
+Continuous Cost Governance Paper V1.3*
+V0.*
+V1.0*
+V1.1*
+V1.2*
+V1.3*
+V1.4 Editorial Companion*
+V1.4 Review and Publication Packet*
+V1.4 Social and Companion Image Prompts*
+CCG Audio Overview Script*
+ChatGPT Image*

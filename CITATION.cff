@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you reference this working paper or specification, please cite it as below."
+title: "Introducing Continuous Cost Governance: Extending FinOps from Cost Optimization to Financial Accountability"
+version: "1.4"
+doi: 10.5281/zenodo.23555398
+date-released: 2026-10-22
+url: "https://github.com/babbabooieq/continuous-cost-governance"
+license: CC-BY-4.0
+type: report
+authors:
+  - family-names: "Surujnarine"
+    given-names: "Andy"
+    orcid: "https://orcid.org/0009-0004-0144-1497"
+    affiliation: "Compute LLC"
+    website: "https://surujnarine.net"
+keywords:
+  - FinOps
+  - Continuous Cost Governance
+  - Cloud Financial Management
+  - Internal Control
+  - FOCUS
+  - IPMVP
+  - Technology Business Management
+  - Cloud Governance
+  - AI Cost Governance
+abstract: >-
+  Continuous Cost Governance (CCG) is a proposed vendor-neutral control specification
+  for consumption-based technology expenditure, in which each material cost decision
+  is treated as a governed transaction carrying evidence sufficient to support a decision,
+  a named accountable owner, an authorisation proportionate to its risk and materiality,
+  and an independently verified outcome against an adjusted baseline.

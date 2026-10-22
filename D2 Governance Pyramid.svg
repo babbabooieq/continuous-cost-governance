@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 980" width="1700" height="980" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1700" height="980" fill="#F7F6F3"/>
+
+  <!-- Title -->
+  <text x="60" y="80" font-size="40" font-weight="700" fill="#1B2A41">The Governance Pyramid</text>
+  <text x="60" y="118" font-size="19" font-style="italic" fill="#5A6B7D">Each layer is unreliable without the one beneath it.</text>
+  <line x1="60" y1="140" x2="1640" y2="140" stroke="#D8D4CC" stroke-width="1"/>
+
+  <!-- Tiers -->
+  <g stroke="#F7F6F3" stroke-width="3">
+    <polygon points="550,190 850,190 910,300 490,300" fill="#1B2A41"/>
+    <polygon points="490,300 910,300 970,410 430,410" fill="#2E7D7B"/>
+    <polygon points="430,410 970,410 1030,520 370,520" fill="#3F5266"/>
+    <polygon points="370,520 1030,520 1090,630 310,630" fill="#5A6B7D"/>
+    <polygon points="310,630 1090,630 1150,740 250,740" fill="#8A97A3"/>
+  </g>
+
+  <!-- Tier labels -->
+  <g fill="#F7F6F3" text-anchor="middle">
+    <text x="700" y="252" font-size="15" font-weight="700" opacity="0.65">5</text>
+    <text x="700" y="278" font-size="21" font-weight="700" letter-spacing="2">ACCOUNTABILITY</text>
+
+    <text x="700" y="358" font-size="15" font-weight="700" opacity="0.65">4</text>
+    <text x="700" y="384" font-size="21" font-weight="700" letter-spacing="2">ASSURANCE</text>
+
+    <text x="700" y="468" font-size="15" font-weight="700" opacity="0.65">3</text>
+    <text x="700" y="494" font-size="21" font-weight="700" letter-spacing="2">CONTROL</text>
+
+    <text x="700" y="578" font-size="15" font-weight="700" opacity="0.65">2</text>
+    <text x="700" y="604" font-size="21" font-weight="700" letter-spacing="2">EVIDENCE</text>
+
+    <text x="700" y="688" font-size="15" font-weight="700" opacity="0.65">1</text>
+    <text x="700" y="714" font-size="21" font-weight="700" letter-spacing="2">DATA</text>
+  </g>
+
+  <!-- Leader lines -->
+  <g stroke="#D8D4CC" stroke-width="1">
+    <line x1="880" y1="245" x2="1180" y2="245"/>
+    <line x1="940" y1="355" x2="1180" y2="355"/>
+    <line x1="1000" y1="465" x2="1180" y2="465"/>
+    <line x1="1060" y1="575" x2="1180" y2="575"/>
+    <line x1="1120" y1="685" x2="1180" y2="685"/>
+  </g>
+
+  <!-- Right annotations -->
+  <g text-anchor="start">
+    <text x="1196" y="238" font-size="14" fill="#5A6B7D">Executive and board reporting; reallocation of</text>
+    <text x="1196" y="257" font-size="14" fill="#5A6B7D">realised savings into budget or forecast.</text>
+
+    <text x="1196" y="338" font-size="14" fill="#5A6B7D">Independent verification against an</text>
+    <text x="1196" y="357" font-size="14" fill="#5A6B7D">adjusted baseline.</text>
+    <text x="1196" y="380" font-size="13" font-style="italic" fill="#2E7D7B">Without this, reporting is estimation.</text>
+
+    <text x="1196" y="448" font-size="14" fill="#5A6B7D">Ownership assignment, financial review,</text>
+    <text x="1196" y="467" font-size="14" fill="#5A6B7D">proportionate authorisation.</text>
+    <text x="1196" y="490" font-size="13" font-style="italic" fill="#2E7D7B">Without this, verification measures accidents.</text>
+
+    <text x="1196" y="558" font-size="14" fill="#5A6B7D">Analysis sufficient to support a decision,</text>
+    <text x="1196" y="577" font-size="14" fill="#5A6B7D">attached to a specific finding.</text>
+    <text x="1196" y="600" font-size="13" font-style="italic" fill="#2E7D7B">Without this, ownership routes noise.</text>
+
+    <text x="1196" y="668" font-size="14" fill="#5A6B7D">Normalised cost and usage across providers</text>
+    <text x="1196" y="687" font-size="14" fill="#5A6B7D">and scopes; utilisation telemetry.</text>
+    <text x="1196" y="710" font-size="13" font-style="italic" fill="#2E7D7B">Without this, evidence is assertion.</text>
+  </g>
+
+  <!-- Left brackets -->
+  <g stroke="#5A6B7D" stroke-width="1.5" fill="none">
+    <path d="M234,190 L214,190 L214,516 L234,516"/>
+    <path d="M234,524 L214,524 L214,740 L234,740"/>
+  </g>
+  <text x="60" y="349" font-size="14" font-weight="700" letter-spacing="1" fill="#5A6B7D">GOVERNANCE</text>
+  <text x="60" y="369" font-size="12" fill="#8A97A3">layers 3 to 5</text>
+  <text x="60" y="628" font-size="14" font-weight="700" letter-spacing="1" fill="#5A6B7D">FOUNDATION</text>
+  <text x="60" y="648" font-size="12" fill="#8A97A3">layers 1 to 2</text>
+
+  <!-- Caption -->
+  <line x1="60" y1="808" x2="1640" y2="808" stroke="#D8D4CC" stroke-width="1"/>
+  <text x="850" y="858" text-anchor="middle" font-size="16" font-style="italic" fill="#5A6B7D">Organisations that report on an unverified base produce numbers that fail on first challenge.</text>
+</svg>

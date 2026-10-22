@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" width="1800" height="1080" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1800" height="1080" fill="#F7F6F3"/>
+
+  <!-- Title -->
+  <text x="60" y="80" font-size="40" font-weight="700" fill="#1B2A41">The Continuous Governance Loop</text>
+  <text x="60" y="118" font-size="19" font-style="italic" fill="#5A6B7D">Each cost decision as a governed transaction.</text>
+  <line x1="60" y1="140" x2="1740" y2="140" stroke="#D8D4CC" stroke-width="1"/>
+
+  <!-- Ring -->
+  <circle cx="620" cy="545" r="245" fill="none" stroke="#D8D4CC" stroke-width="2"/>
+  <path d="M726.3,765.7 A245,245 0 0 1 513.7,765.7" fill="none" stroke="#2E7D7B" stroke-width="5"/>
+
+  <!-- Centre text -->
+  <text x="620" y="537" text-anchor="middle" font-size="15" letter-spacing="3" fill="#5A6B7D">EACH FINDING</text>
+  <text x="620" y="563" text-anchor="middle" font-size="15" letter-spacing="3" fill="#5A6B7D">IS A TRANSACTION</text>
+
+  <text x="620" y="690" text-anchor="middle" font-size="13" font-style="italic" fill="#2E7D7B">The finance handoff: stages 4 and 5</text>
+
+  <!-- Nodes -->
+  <g>
+    <circle cx="620" cy="300" r="48" fill="#1B2A41"/>
+    <text x="620" y="311" text-anchor="middle" font-size="29" font-weight="700" fill="#F7F6F3">1</text>
+    <circle cx="811.6" cy="392.3" r="48" fill="#1B2A41"/>
+    <text x="811.6" y="403" text-anchor="middle" font-size="29" font-weight="700" fill="#F7F6F3">2</text>
+    <circle cx="858.9" cy="599.5" r="48" fill="#1B2A41"/>
+    <text x="858.9" y="611" text-anchor="middle" font-size="29" font-weight="700" fill="#F7F6F3">3</text>
+    <circle cx="726.3" cy="765.7" r="48" fill="#2E7D7B"/>
+    <text x="726.3" y="777" text-anchor="middle" font-size="29" font-weight="700" fill="#F7F6F3">4</text>
+    <circle cx="513.7" cy="765.7" r="48" fill="#2E7D7B"/>
+    <text x="513.7" y="777" text-anchor="middle" font-size="29" font-weight="700" fill="#F7F6F3">5</text>
+    <circle cx="381.1" cy="599.5" r="48" fill="#1B2A41"/>
+    <text x="381.1" y="611" text-anchor="middle" font-size="29" font-weight="700" fill="#F7F6F3">6</text>
+    <circle cx="428.4" cy="392.3" r="48" fill="#1B2A41"/>
+    <text x="428.4" y="403" text-anchor="middle" font-size="29" font-weight="700" fill="#F7F6F3">7</text>
+  </g>
+
+  <!-- Stage 1 OBSERVE -->
+  <g text-anchor="middle">
+    <text x="620" y="162" font-size="17" font-weight="700" fill="#1B2A41" letter-spacing="1">OBSERVE</text>
+    <text x="620" y="185" font-size="14" font-style="italic" fill="#5A6B7D">What is being spent, on what,</text>
+    <text x="620" y="204" font-size="14" font-style="italic" fill="#5A6B7D">with what utilisation?</text>
+    <text x="620" y="227" font-size="13" fill="#8A97A3">Platform / FinOps</text>
+  </g>
+  <!-- Stage 2 EVIDENCE -->
+  <g text-anchor="start">
+    <text x="878" y="358" font-size="17" font-weight="700" fill="#1B2A41" letter-spacing="1">EVIDENCE</text>
+    <text x="878" y="381" font-size="14" font-style="italic" fill="#5A6B7D">Is this change safe,</text>
+    <text x="878" y="400" font-size="14" font-style="italic" fill="#5A6B7D">and what is it worth?</text>
+    <text x="878" y="423" font-size="13" fill="#8A97A3">FinOps / Engineering</text>
+  </g>
+  <!-- Stage 3 ASSIGN -->
+  <g text-anchor="start">
+    <text x="925" y="578" font-size="17" font-weight="700" fill="#1B2A41" letter-spacing="1">ASSIGN</text>
+    <text x="925" y="601" font-size="14" font-style="italic" fill="#5A6B7D">Who decides?</text>
+    <text x="925" y="624" font-size="13" fill="#8A97A3">FinOps / Platform</text>
+  </g>
+  <!-- Stage 4 REVIEW -->
+  <g text-anchor="start">
+    <text x="800" y="848" font-size="17" font-weight="700" fill="#2E7D7B" letter-spacing="1">REVIEW</text>
+    <text x="800" y="871" font-size="14" font-style="italic" fill="#5A6B7D">What are the financial</text>
+    <text x="800" y="890" font-size="14" font-style="italic" fill="#5A6B7D">second-order effects?</text>
+    <text x="800" y="913" font-size="13" fill="#8A97A3">Finance</text>
+  </g>
+  <!-- Stage 5 AUTHORIZE -->
+  <g text-anchor="end">
+    <text x="440" y="848" font-size="17" font-weight="700" fill="#2E7D7B" letter-spacing="1">AUTHORIZE</text>
+    <text x="440" y="871" font-size="14" font-style="italic" fill="#5A6B7D">Who accepted the risk,</text>
+    <text x="440" y="890" font-size="14" font-style="italic" fill="#5A6B7D">and on what authority?</text>
+    <text x="440" y="913" font-size="13" fill="#8A97A3">Accountable owner / DoA holder</text>
+  </g>
+  <!-- Stage 6 VERIFY -->
+  <g text-anchor="end">
+    <text x="318" y="567" font-size="17" font-weight="700" fill="#1B2A41" letter-spacing="1">VERIFY</text>
+    <text x="318" y="590" font-size="14" font-style="italic" fill="#5A6B7D">What actually changed</text>
+    <text x="318" y="609" font-size="14" font-style="italic" fill="#5A6B7D">against an adjusted baseline?</text>
+    <text x="318" y="632" font-size="13" fill="#8A97A3">Finance / independent function</text>
+  </g>
+  <!-- Stage 7 REPORT &amp; REALLOCATE -->
+  <g text-anchor="end">
+    <text x="363" y="358" font-size="17" font-weight="700" fill="#1B2A41" letter-spacing="1">REPORT &amp; REALLOCATE</text>
+    <text x="363" y="381" font-size="14" font-style="italic" fill="#5A6B7D">What was realised,</text>
+    <text x="363" y="400" font-size="14" font-style="italic" fill="#5A6B7D">and where does it go?</text>
+    <text x="363" y="423" font-size="13" fill="#8A97A3">Finance / executive</text>
+  </g>
+
+  <!-- Connector to exception panel -->
+  <line x1="1062" y1="520" x2="1186" y2="520" stroke="#5A6B7D" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <path d="M0,-6 L9,0 L0,6 Z" fill="#5A6B7D" transform="translate(1194,520)"/>
+
+  <!-- Exception panel -->
+  <rect x="1200" y="360" width="540" height="440" fill="none" stroke="#D8D4CC" stroke-width="1.5" rx="4"/>
+  <text x="1232" y="402" font-size="15" font-weight="700" letter-spacing="2" fill="#1B2A41">EXCEPTION PATHS</text>
+
+  <g stroke="#5A6B7D" stroke-width="1.5" stroke-dasharray="6 5">
+    <line x1="1232" y1="443" x2="1284" y2="443"/>
+    <line x1="1232" y1="488" x2="1284" y2="488"/>
+    <line x1="1232" y1="533" x2="1284" y2="533"/>
+  </g>
+  <g fill="#5A6B7D">
+    <path d="M0,-5 L8,0 L0,5 Z" transform="translate(1292,443)"/>
+    <path d="M0,-5 L8,0 L0,5 Z" transform="translate(1292,488)"/>
+    <path d="M0,-5 L8,0 L0,5 Z" transform="translate(1292,533)"/>
+  </g>
+  <text x="1312" y="448" font-size="16" fill="#1B2A41">Declined</text>
+  <text x="1312" y="493" font-size="16" fill="#1B2A41">Deferred</text>
+  <text x="1312" y="538" font-size="16" fill="#1B2A41">Verification failed</text>
+
+  <line x1="1470" y1="552" x2="1470" y2="580" stroke="#5A6B7D" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <path d="M-5,0 L5,0 L0,8 Z" fill="#5A6B7D" transform="translate(1470,582)"/>
+
+  <rect x="1240" y="590" width="460" height="66" fill="none" stroke="#1B2A41" stroke-width="2" rx="3"/>
+  <text x="1470" y="631" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#1B2A41">REGISTER OF DECISIONS</text>
+
+  <line x1="1470" y1="660" x2="1470" y2="688" stroke="#2E7D7B" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <path d="M-5,0 L5,0 L0,8 Z" fill="#2E7D7B" transform="translate(1470,690)"/>
+  <text x="1470" y="718" text-anchor="middle" font-size="14" fill="#2E7D7B">Returns to stage 1: OBSERVE</text>
+  <text x="1470" y="764" text-anchor="middle" font-size="14" font-style="italic" fill="#5A6B7D">Exceptions are outcomes, not failures.</text>
+
+  <!-- Footer strip -->
+  <line x1="60" y1="948" x2="1740" y2="948" stroke="#D8D4CC" stroke-width="1"/>
+  <rect x="60" y="978" width="820" height="62" fill="none" stroke="#1B2A41" stroke-width="2" rx="3"/>
+  <text x="90" y="1016" font-size="16" font-weight="700" fill="#1B2A41">CCG CORE:</text>
+  <text x="190" y="1016" font-size="16" fill="#1B2A41">read-only (observe through report)</text>
+  <rect x="910" y="978" width="830" height="62" fill="none" stroke="#C4CBD2" stroke-width="1.5" stroke-dasharray="7 5" rx="3"/>
+  <text x="940" y="1016" font-size="16" font-weight="700" fill="#8A97A3">OPTIONAL EXECUTION LAYER:</text>
+  <text x="1210" y="1016" font-size="16" fill="#8A97A3">automated implementation and policy enforcement</text>
+</svg>
