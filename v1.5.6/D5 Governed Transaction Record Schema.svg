@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" width="1800" height="1080" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1800" height="1080" fill="#F7F6F3"/>
+
+  <!-- Title -->
+  <text x="60" y="80" font-size="40" font-weight="700" fill="#1B2A41">The Governed Transaction Record</text>
+  <text x="60" y="118" font-size="19" font-style="italic" fill="#5A6B7D">What the register of decisions retains for each cost decision — the schema the loop writes to.</text>
+  <line x1="60" y1="140" x2="1740" y2="140" stroke="#D8D4CC" stroke-width="1"/>
+
+  <!-- Record card -->
+  <rect x="60" y="170" width="1680" height="780" rx="8" fill="#FFFFFF" stroke="#1B2A41" stroke-width="2"/>
+
+  <!-- Card header band -->
+  <rect x="62" y="172" width="1676" height="76" rx="6" fill="#1B2A41"/>
+  <text x="90" y="220" font-size="20" font-weight="700" letter-spacing="3" fill="#F7F6F3">GOVERNED TRANSACTION RECORD</text>
+  <text x="1710" y="219" text-anchor="end" font-size="15" letter-spacing="1" fill="#C4CBD2">SAMPLE · CCG-2026-0147</text>
+
+  <!-- ============ ROW 1 ============ -->
+  <!-- Panel 1: Identity -->
+  <g>
+    <rect x="90" y="275" width="524" height="250" rx="6" fill="#F7F6F3" stroke="#8A99AD" stroke-width="1.5"/>
+    <text x="114" y="313" font-size="15" font-weight="700" letter-spacing="2" fill="#1B2A41">1 · IDENTITY</text>
+    <line x1="114" y1="326" x2="590" y2="326" stroke="#D8D4CC" stroke-width="1"/>
+    <text x="114" y="356" font-size="12" letter-spacing="1.5" fill="#8A97A3">DECISION ID</text>
+    <text x="114" y="380" font-size="16" fill="#1B2A41">CCG-2026-0147</text>
+    <text x="114" y="412" font-size="12" letter-spacing="1.5" fill="#8A97A3">TITLE</text>
+    <text x="114" y="436" font-size="16" fill="#1B2A41">Rightsize production app tier (14 instances)</text>
+    <text x="114" y="468" font-size="12" letter-spacing="1.5" fill="#8A97A3">STATUS</text>
+    <text x="114" y="492" font-size="16" fill="#1B2A41">Stage 6 · Verify — opened 04 Aug, closed 11 Sep 2026</text>
+  </g>
+
+  <!-- Panel 2: Evidence -->
+  <g>
+    <rect x="638" y="275" width="524" height="250" rx="6" fill="#F7F6F3" stroke="#8A99AD" stroke-width="1.5"/>
+    <text x="662" y="313" font-size="15" font-weight="700" letter-spacing="2" fill="#1B2A41">2 · EVIDENCE</text>
+    <line x1="662" y1="326" x2="1138" y2="326" stroke="#D8D4CC" stroke-width="1"/>
+    <text x="662" y="356" font-size="12" letter-spacing="1.5" fill="#8A97A3">EVIDENCE PACK</text>
+    <text x="662" y="380" font-size="16" fill="#1B2A41">Telemetry + utilisation refs (CPU 11%, mem 24%)</text>
+    <text x="662" y="412" font-size="12" letter-spacing="1.5" fill="#8A97A3">MATERIALITY</text>
+    <text x="662" y="436" font-size="16" fill="#1B2A41">Above threshold — full loop, no collapse</text>
+    <text x="662" y="468" font-size="12" letter-spacing="1.5" fill="#8A97A3">ESTIMATE</text>
+    <text x="662" y="492" font-size="16" fill="#1B2A41">$24,100 annualised — <tspan font-style="italic" fill="#8A97A3">not reportable</tspan></text>
+  </g>
+
+  <!-- Panel 3: Ownership -->
+  <g>
+    <rect x="1186" y="275" width="524" height="250" rx="6" fill="#F7F6F3" stroke="#8A99AD" stroke-width="1.5"/>
+    <text x="1210" y="313" font-size="15" font-weight="700" letter-spacing="2" fill="#1B2A41">3 · OWNERSHIP</text>
+    <line x1="1210" y1="326" x2="1686" y2="326" stroke="#D8D4CC" stroke-width="1"/>
+    <text x="1210" y="356" font-size="12" letter-spacing="1.5" fill="#8A97A3">ACCOUNTABLE OWNER</text>
+    <text x="1210" y="380" font-size="16" fill="#1B2A41">Named individual — answers "who decides?"</text>
+    <text x="1210" y="412" font-size="12" letter-spacing="1.5" fill="#8A97A3">DECISION RIGHTS</text>
+    <text x="1210" y="436" font-size="16" fill="#1B2A41">Approve · decline · defer — with recorded reason</text>
+    <text x="1210" y="476" font-size="14" font-style="italic" fill="#5A6B7D">A finding with no named owner</text>
+    <text x="1210" y="498" font-size="14" font-style="italic" fill="#5A6B7D">is not a governed decision.</text>
+  </g>
+
+  <!-- ============ ROW 2 ============ -->
+  <!-- Panel 4: Financial review -->
+  <g>
+    <rect x="90" y="550" width="524" height="250" rx="6" fill="#F7F6F3" stroke="#8A99AD" stroke-width="1.5"/>
+    <text x="114" y="588" font-size="15" font-weight="700" letter-spacing="2" fill="#1B2A41">4 · FINANCIAL REVIEW</text>
+    <line x1="114" y1="601" x2="590" y2="601" stroke="#D8D4CC" stroke-width="1"/>
+    <text x="114" y="631" font-size="12" letter-spacing="1.5" fill="#8A97A3">SECOND-ORDER EFFECTS CHECKED</text>
+    <text x="114" y="655" font-size="16" fill="#1B2A41">Commitments · allocation rules · reported metrics</text>
+    <text x="114" y="687" font-size="12" letter-spacing="1.5" fill="#8A97A3">REVIEWER</text>
+    <text x="114" y="711" font-size="16" fill="#1B2A41">Finance (FP&amp;A) — before implementation</text>
+    <text x="114" y="751" font-size="14" font-style="italic" fill="#5A6B7D">Recorded, not remembered.</text>
+  </g>
+
+  <!-- Panel 5: Authority -->
+  <g>
+    <rect x="638" y="550" width="524" height="250" rx="6" fill="#F7F6F3" stroke="#8A99AD" stroke-width="1.5"/>
+    <text x="662" y="588" font-size="15" font-weight="700" letter-spacing="2" fill="#1B2A41">5 · AUTHORITY</text>
+    <line x1="662" y1="601" x2="1138" y2="601" stroke="#D8D4CC" stroke-width="1"/>
+    <text x="662" y="631" font-size="12" letter-spacing="1.5" fill="#8A97A3">DECISION</text>
+    <text x="662" y="655" font-size="16" fill="#1B2A41">Approved — delegation of financial authority stated</text>
+    <text x="662" y="687" font-size="12" letter-spacing="1.5" fill="#8A97A3">GRANTED BY</text>
+    <text x="662" y="711" font-size="16" fill="#1B2A41">Person + delegation — or policy, for automated paths</text>
+    <text x="662" y="745" font-size="14" font-style="italic" fill="#5A6B7D">Peer review counts only when it cites the evidence,</text>
+    <text x="662" y="767" font-size="14" font-style="italic" fill="#5A6B7D">the materiality assessment, and the authority.</text>
+  </g>
+
+  <!-- Panel 6: Verification (teal accent) -->
+  <g>
+    <rect x="1186" y="550" width="524" height="250" rx="6" fill="#EFF4F3" stroke="#2E7D7B" stroke-width="2"/>
+    <text x="1210" y="588" font-size="15" font-weight="700" letter-spacing="2" fill="#2E7D7B">6 · VERIFICATION</text>
+    <line x1="1210" y1="601" x2="1686" y2="601" stroke="#2E7D7B" stroke-width="1" opacity="0.4"/>
+    <text x="1210" y="631" font-size="12" letter-spacing="1.5" fill="#5A6B7D">VERIFIER</text>
+    <text x="1210" y="655" font-size="16" fill="#1B2A41">Independent — did not authorise, implement,</text>
+    <text x="1210" y="677" font-size="16" fill="#1B2A41">or own the affected budget</text>
+    <text x="1210" y="709" font-size="12" letter-spacing="1.5" fill="#5A6B7D">BASELINE</text>
+    <text x="1210" y="733" font-size="16" fill="#1B2A41">Immutable record + adjustments (-$3,450)</text>
+    <text x="1210" y="765" font-size="12" letter-spacing="1.5" fill="#5A6B7D">VERIFIED OUTCOME</text>
+    <text x="1210" y="789" font-size="16" font-weight="700" fill="#2E7D7B">$15,950 — the only figure reported as a result</text>
+  </g>
+
+  <!-- Disposition strip -->
+  <g>
+    <text x="114" y="862" font-size="13" font-weight="700" letter-spacing="2" fill="#5A6B7D">DISPOSITION — FIRST-CLASS OUTCOMES, NOT FAILURES</text>
+    <g font-size="13" font-weight="700" letter-spacing="1" text-anchor="middle">
+      <rect x="90" y="876" width="180" height="38" rx="19" fill="#2E7D7B"/>
+      <text x="180" y="901" fill="#FFFFFF">REALISED</text>
+      <rect x="286" y="876" width="180" height="38" rx="19" fill="#FFFFFF" stroke="#8A99AD" stroke-width="1.5"/>
+      <text x="376" y="901" fill="#1B2A41">DECLINED</text>
+      <rect x="482" y="876" width="180" height="38" rx="19" fill="#FFFFFF" stroke="#8A99AD" stroke-width="1.5"/>
+      <text x="572" y="901" fill="#1B2A41">DEFERRED</text>
+      <rect x="678" y="876" width="180" height="38" rx="19" fill="#FFFFFF" stroke="#8A99AD" stroke-width="1.5"/>
+      <text x="768" y="901" fill="#1B2A41">EXPIRED</text>
+      <rect x="874" y="876" width="260" height="38" rx="19" fill="#FFFFFF" stroke="#8A99AD" stroke-width="1.5"/>
+      <text x="1004" y="901" fill="#1B2A41">VERIFICATION FAILED</text>
+    </g>
+    <text x="1710" y="901" text-anchor="end" font-size="14" font-style="italic" fill="#8A97A3">expired counts against conversion</text>
+  </g>
+
+  <!-- Footer: the audit test -->
+  <g>
+    <line x1="60" y1="985" x2="60" y2="1045" stroke="#2E7D7B" stroke-width="4"/>
+    <text x="84" y="1008" font-size="17" fill="#1B2A41"><tspan font-weight="700">The audit test: </tspan>internal audit must be able to re-perform the stage 6 verification from this record alone.</text>
+    <text x="84" y="1034" font-size="17" font-style="italic" fill="#5A6B7D">If it cannot, the record is insufficient — whatever the reported figure.</text>
+  </g>
+</svg>

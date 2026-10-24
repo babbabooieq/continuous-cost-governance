@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 980" width="1700" height="980" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="ahT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2E7D7B"/>
+    </marker>
+  </defs>
+
+  <rect width="1700" height="980" fill="#F7F6F3"/>
+
+  <!-- Title -->
+  <text x="60" y="80" font-size="40" font-weight="700" fill="#1B2A41">TBM, FinOps and CCG: a division of labour</text>
+  <text x="60" y="118" font-size="19" font-style="italic" fill="#5A6B7D">Three complementary layers, not competing frameworks.</text>
+  <line x1="60" y1="140" x2="1640" y2="140" stroke="#D8D4CC" stroke-width="1"/>
+
+  <!-- TBM band -->
+  <rect x="60" y="210" width="1580" height="125" fill="#FFFFFF" stroke="#D8D4CC" stroke-width="1.5" rx="3"/>
+  <rect x="60" y="210" width="7" height="125" fill="#5A6B7D"/>
+  <text x="110" y="264" font-size="32" font-weight="700" fill="#1B2A41">TBM</text>
+  <text x="110" y="296" font-size="17" fill="#8A97A3">The taxonomy</text>
+  <text x="1590" y="281" text-anchor="end" font-size="24" font-style="italic" fill="#5A6B7D">What does this cost relate to?</text>
+
+  <!-- FinOps band -->
+  <rect x="60" y="365" width="1580" height="125" fill="#FFFFFF" stroke="#D8D4CC" stroke-width="1.5" rx="3"/>
+  <rect x="60" y="365" width="7" height="125" fill="#5A6B7D"/>
+  <text x="110" y="419" font-size="32" font-weight="700" fill="#1B2A41">FinOps</text>
+  <text x="110" y="451" font-size="17" fill="#8A97A3">The operating practice</text>
+  <text x="1590" y="436" text-anchor="end" font-size="24" font-style="italic" fill="#5A6B7D">What should we do?</text>
+  <!-- Policy &amp; Governance chip -->
+  <rect x="560" y="402" width="440" height="52" fill="#F2F7F6" stroke="#2E7D7B" stroke-width="1.5" rx="26"/>
+  <text x="780" y="435" text-anchor="middle" font-size="17" font-weight="700" fill="#2E7D7B">Policy &amp; Governance capability</text>
+
+  <!-- Connector -->
+  <line x1="780" y1="580" x2="780" y2="466" stroke="#2E7D7B" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <path d="M-6,0 L6,0 L0,-9 Z" fill="#2E7D7B" transform="translate(780,464)"/>
+  <text x="1030" y="512" font-size="15" fill="#2E7D7B">CCG sits inside the FinOps Framework</text>
+  <text x="1030" y="534" font-size="15" fill="#2E7D7B">as a deepening of this capability.</text>
+
+  <!-- CCG band -->
+  <rect x="60" y="580" width="1580" height="125" fill="#FFFFFF" stroke="#D8D4CC" stroke-width="1.5" rx="3"/>
+  <rect x="60" y="580" width="7" height="125" fill="#2E7D7B"/>
+  <text x="110" y="634" font-size="32" font-weight="700" fill="#1B2A41">CCG</text>
+  <text x="110" y="666" font-size="17" fill="#8A97A3">The control specification</text>
+  <text x="1590" y="651" text-anchor="end" font-size="24" font-style="italic" fill="#5A6B7D">Did we do it, who said so, and what did it actually deliver?</text>
+
+  <!-- Dependency strip -->
+  <text x="60" y="775" font-size="14" letter-spacing="2" fill="#8A97A3">CCG DEPENDENCIES WITHIN THE FINOPS FRAMEWORK</text>
+  <g fill="none" stroke="#C4CBD2" stroke-width="1.5">
+    <rect x="60" y="795" width="300" height="52" rx="26"/>
+    <rect x="380" y="795" width="380" height="52" rx="26"/>
+    <rect x="780" y="795" width="380" height="52" rx="26"/>
+    <rect x="1180" y="795" width="420" height="52" rx="26"/>
+  </g>
+  <g font-size="17" fill="#5A6B7D" text-anchor="middle">
+    <text x="210" y="828">Allocation</text>
+    <text x="570" y="828">Workload Optimization</text>
+    <text x="970" y="828">Reporting &amp; Analytics</text>
+    <text x="1390" y="828">Quantify Business Value</text>
+  </g>
+
+  <!-- Caption -->
+  <line x1="60" y1="888" x2="1640" y2="888" stroke="#D8D4CC" stroke-width="1"/>
+  <text x="850" y="932" text-anchor="middle" font-size="16" font-style="italic" fill="#5A6B7D">Absorption of these ideas into existing FinOps guidance would be a legitimate outcome.</text>
+</svg>

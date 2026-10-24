@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" width="1800" height="1080" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1800" height="1080" fill="#F7F6F3"/>
+
+  <!-- Title -->
+  <text x="60" y="80" font-size="40" font-weight="700" fill="#1B2A41">The Estimate-to-Verified-Outcome Funnel</text>
+  <text x="60" y="118" font-size="19" font-style="italic" fill="#5A6B7D">Each stage of the loop removes a portion of the estimate from what may be reported.</text>
+  <line x1="60" y1="140" x2="1740" y2="140" stroke="#D8D4CC" stroke-width="1"/>
+
+  <!-- Bracket: tracked operationally -->
+  <line x1="150" y1="228" x2="1275" y2="228" stroke="#5A6B7D" stroke-width="1.5"/>
+  <line x1="150" y1="228" x2="150" y2="244" stroke="#5A6B7D" stroke-width="1.5"/>
+  <line x1="1275" y1="228" x2="1275" y2="244" stroke="#5A6B7D" stroke-width="1.5"/>
+  <text x="712" y="210" text-anchor="middle" font-size="17" fill="#5A6B7D">Tracked operationally — never reported as results</text>
+
+  <!-- Funnel segments (tapered polygon, divided) -->
+  <g stroke="#1B2A41" stroke-width="2">
+    <polygon points="150,280 525,310 525,515 150,540" fill="#C4CBD2"/>
+    <polygon points="525,310 900,340 900,490 525,515" fill="#8A99AD"/>
+    <polygon points="900,340 1275,370 1275,465 900,490" fill="#5A6B7D"/>
+    <polygon points="1275,370 1650,400 1650,440 1275,465" fill="#2E7D7B"/>
+  </g>
+
+  <!-- Segment labels -->
+  <g text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2">
+    <text x="337" y="405" fill="#1B2A41">IDENTIFIED</text>
+    <text x="337" y="431" fill="#1B2A41">ESTIMATE</text>
+    <text x="712" y="408" fill="#F7F6F3">AFTER</text>
+    <text x="712" y="434" fill="#F7F6F3">EVIDENCE</text>
+    <text x="1087" y="410" fill="#F7F6F3">AFTER FINANCE</text>
+    <text x="1087" y="436" fill="#F7F6F3">REVIEW</text>
+    <text x="1462" y="412" fill="#F7F6F3">VERIFIED</text>
+    <text x="1462" y="438" fill="#F7F6F3">OUTCOME</text>
+  </g>
+
+  <!-- Captions -->
+  <g text-anchor="middle" font-size="16" font-style="italic">
+    <text x="337" y="610" fill="#5A6B7D">A hypothesis about</text>
+    <text x="337" y="634" fill="#5A6B7D">a counterfactual.</text>
+    <text x="712" y="610" fill="#5A6B7D">Scope corrected;</text>
+    <text x="712" y="634" fill="#5A6B7D">unsafe findings removed.</text>
+    <text x="1087" y="610" fill="#5A6B7D">Second-order effects caught</text>
+    <text x="1087" y="634" fill="#5A6B7D">before implementation.</text>
+    <text x="1462" y="610" fill="#2E7D7B">The only figure reported</text>
+    <text x="1462" y="634" fill="#2E7D7B">as a financial result.</text>
+  </g>
+
+  <!-- What each transition removes -->
+  <g text-anchor="middle" font-size="14" fill="#8A97A3">
+    <text x="525" y="700">evidence removes scope</text>
+    <text x="900" y="700">review removes illusions</text>
+    <text x="1275" y="700">verification removes noise</text>
+  </g>
+  <g stroke="#8A97A3" stroke-width="1.5">
+    <line x1="525" y1="668" x2="525" y2="688"/>
+    <line x1="900" y1="668" x2="900" y2="688"/>
+    <line x1="1275" y1="668" x2="1275" y2="688"/>
+  </g>
+
+  <!-- Footer -->
+  <line x1="60" y1="948" x2="1740" y2="948" stroke="#D8D4CC" stroke-width="1"/>
+  <text x="900" y="992" text-anchor="middle" font-size="15" font-style="italic" fill="#5A6B7D">Schematic — widths are illustrative, not proportional to any measured decay. The funnel shows a shape, not a result.</text>
+</svg>
