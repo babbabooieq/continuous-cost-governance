@@ -24,7 +24,6 @@
 
 - **[Download PDF (`Continuous Cost Governance Paper V1.5.6.pdf`)](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.pdf)**
 - **[Read Full Markdown (`Continuous Cost Governance Paper V1.5.6.md`)](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.md)**
-- **[Download Word Document (`Continuous Cost Governance Paper V1.5.6.docx`)](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.docx)**
 
 The DOI resolves to the permanent Zenodo record of Version 1.5.6.
 
@@ -34,8 +33,8 @@ Both versions remain available in this repository.
 
 | Version | Files | Git tag |
 |---|---|---|
-| **1.5.6** (current) | [PDF](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.pdf) · [Markdown](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.md) · [Word](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.docx) (folder [`v1.5.6/`](v1.5.6)) | [`v1.5.6`](https://github.com/babbabooieq/continuous-cost-governance/tree/v1.5.6) |
-| 1.4 | [PDF](Continuous%20Cost%20Governance%20Paper%20V1.4.pdf) · [Markdown](Continuous%20Cost%20Governance%20Paper%20V1.4.md) · [Word](Continuous%20Cost%20Governance%20Paper%20V1.4.docx) (repository root) | [`v1.4.0`](https://github.com/babbabooieq/continuous-cost-governance/tree/v1.4.0) |
+| **1.5.6** (current) | [PDF](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.pdf) · [Markdown](v1.5.6/Continuous%20Cost%20Governance%20Paper%20V1.5.6.md) (folder [`v1.5.6/`](v1.5.6)) | [`v1.5.6`](https://github.com/babbabooieq/continuous-cost-governance/tree/v1.5.6) |
+| 1.4 | [PDF](Continuous%20Cost%20Governance%20Paper%20V1.4.pdf) · [Markdown](Continuous%20Cost%20Governance%20Paper%20V1.4.md) (repository root) | [`v1.4.0`](https://github.com/babbabooieq/continuous-cost-governance/tree/v1.4.0) |
 
 The Version 1.4 files at the repository root are the October 22, 2026 repository copy.
 
